@@ -20,32 +20,72 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# História criada por IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz a IA criar uma história do zero de forma rápida e simples.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para criar um roteiro de um filme de ação animado com personagens que se passa na era mediaval.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Título: O Destino dos Guardiões
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Gênero: Ação / Aventura
 
-### Exemplos e Insigths
+Classificação: Animação
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Duração: 90 minutos
 
-## Links Interessantes
+Personagens Principais
+Liam: Um jovem e corajoso cavaleiro com um forte senso de justiça.
+Elara: Uma habilidosa arqueira e líder do grupo rebelde, determinada a restaurar a paz no reino.
+Kael: Um mago misterioso com vastos conhecimentos e poderes mágicos, mentor de Liam.
+Mara: Uma guerreira feroz e leal amiga de Elara, especialista em combate corpo a corpo.
+Rei Alden: O rei tirano que governa com mão de ferro, o principal antagonista.
+Aeron: Um cavaleiro corrompido que serve ao Rei Alden, rival de Liam.
+Ato 1
+Cena 1: A Invasão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+O filme começa com uma cena de um pequeno vilarejo sendo atacado por soldados do Rei Alden. Casas em chamas, pessoas fugindo.
+Liam está liderando a defesa do vilarejo, lutando bravamente contra os invasores. Ele é mostrado como um herói local.
+Cena 2: O Chamado à Aventura
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Após a batalha, Kael aparece e convoca Liam para uma missão importante. Kael revela que o Reino está em perigo e precisa de um herói para derrubar o tirano Rei Alden.
+Liam, relutante no início, é convencido por Kael e decide partir em sua jornada.
+Cena 3: A Reunião dos Heróis
+
+Em uma floresta densa, Liam encontra Elara e seu grupo de rebeldes. Inicialmente desconfiados, eles acabam aceitando Liam após uma demonstração de suas habilidades.
+Mara e Elara se juntam a Liam, formando uma aliança para derrubar o Rei Alden.
+Ato 2
+Cena 4: A Jornada Começa
+
+O grupo enfrenta vários desafios em sua jornada até o castelo do Rei Alden, incluindo emboscadas de bandidos e criaturas mágicas.
+Kael ensina Liam a usar uma espada mágica, forjada com poder antigo, que será crucial para derrotar Alden.
+Cena 5: Conflito Interno
+
+Aeron, o cavaleiro corrompido, ataca o grupo, causando uma grande batalha. Durante o confronto, segredos do passado de Liam são revelados, criando tensão entre os heróis.
+Apesar das diferenças, eles conseguem derrotar Aeron, que foge prometendo vingança.
+Cena 6: A Revelação
+
+O grupo descobre que o Rei Alden está planejando usar um poderoso artefato mágico para escravizar todo o reino.
+Kael revela que esse artefato é a chave para derrotar Alden, mas também é extremamente perigoso.
+Ato 3
+Cena 7: A Invasão do Castelo
+
+Os heróis invadem o castelo de Alden em uma sequência de ação épica. Elara e Mara lideram os rebeldes, enquanto Liam e Kael enfrentam os guardas reais.
+Aeron reaparece para um confronto final com Liam. Durante a luta, Liam consegue redimir Aeron, que se junta aos heróis.
+Cena 8: O Confronto Final
+
+Liam e os heróis enfrentam o Rei Alden no salão do trono. Uma batalha intensa acontece, com Alden usando o artefato mágico contra eles.
+Com a ajuda de Kael e seus amigos, Liam consegue destruir o artefato e derrotar Alden, libertando o reino de sua tirania.
+Cena 9: O Novo Começo
+
+Com Alden derrotado, o reino celebra a vitória. Liam, Elara, Mara, Aeron e Kael são aclamados como heróis.
+O filme termina com Liam sendo coroado como o novo líder do reino, prometendo governar com justiça e sabedoria, e os heróis partem para novas aventuras.
+Créditos Finais
+Cena pós-créditos: Kael encontra um novo perigo surgindo nas terras distantes, sugerindo uma possível continuação.
+
